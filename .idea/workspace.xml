@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3974693-0500-45c2-ad74-041c43014694" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/customer/src/main/java/com/hagios/customer/CustomerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer/src/main/java/com/hagios/customer/CustomerRegistrationRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer/src/main/java/com/hagios/customer/CustomerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer/src/main/java/com/hagios/customer/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/customer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/src/main/java/com/hagios/customer/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer/src/main/java/com/hagios/customer/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/customer/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,11 +24,24 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -42,6 +60,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -58,6 +81,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CustomerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="customer" />
       <extension name="coverage">
@@ -85,7 +119,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644239941612</updated>
-      <workItem from="1644239943065" duration="8964000" />
+      <workItem from="1644239943065" duration="11310000" />
+      <workItem from="1644253645552" duration="4981000" />
+      <workItem from="1644294927493" duration="378000" />
+      <workItem from="1644295326190" duration="323000" />
     </task>
     <servers />
   </component>
