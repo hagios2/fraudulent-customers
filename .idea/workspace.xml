@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3974693-0500-45c2-ad74-041c43014694" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fraud/fraud.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fraud/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fraud/src/main/java/com/hagios/fraud/FraudApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fraud/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fraud/src/main/resources/banner.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer/customer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/customer/customer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer/target/classes/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/customer/target/classes/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraud/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fraud/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraud/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/fraud/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +33,7 @@
     </option>
     <option name="myId2Visible">
       <map>
-        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
       </map>
     </option>
   </component>
@@ -151,7 +141,7 @@
       <workItem from="1644239943065" duration="11310000" />
       <workItem from="1644253645552" duration="4981000" />
       <workItem from="1644294927493" duration="378000" />
-      <workItem from="1644295326190" duration="2866000" />
+      <workItem from="1644295326190" duration="5418000" />
     </task>
     <servers />
   </component>
